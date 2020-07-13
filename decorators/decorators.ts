@@ -8,3 +8,5 @@ class Eletrodomestico {
 function logarClasse(parametro: Function) {
   console.log(parametro);
 }
+
+// Função que é chamada quando a classe é iniciada
